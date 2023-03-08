@@ -1,4 +1,4 @@
-# **Hello👋, moi c'est, Swan DAPHNE**
+# **Hello👋, moi c'est, Swan**
 ### **Développeur full stack en reconversion professionnelle**
 ### **Connect with me:**
 <a href="https://www.linkedin.com/in/swan-daphne-dev-webweb"><img src ="Aspose.Words.dd70760d-6a32-4428-8bdd-8eed64552113.001.png">Daphne Swan</img></a>
