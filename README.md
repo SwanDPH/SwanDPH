@@ -1,5 +1,5 @@
 # **Hello 👋, moi c'est Swan**
-### **Développeur Full Stack en reconversion professionnelle**
+### **Développeur Full Stack (Symfony & React)**
 
 ### **Connect with me:**
 [![Daphne Swan](https://upload.wikimedia.org/wikipedia/commons/a/a7/Angular_logo.svg)](https://www.linkedin.com/in/swan-daphne-dev-webweb)
