@@ -6,12 +6,6 @@ Je suis un développeur passionné avec une expertise dans la création d'applic
 ### **Connect with me:**
 [![Daphne Swan](https://upload.wikimedia.org/wikipedia/commons/a/a7/Angular_logo.svg)](https://www.linkedin.com/in/swan-daphne-dev-webweb)
 
-### **Portfolio:** 
-[swandaphne.fr](http://swandaphne.fr)
-
-### **Projets Annexes:** 
-[Excentiel.fr](http://excentiel.fr)
-
 ### **Languages and Tools:**
 
 <p>
@@ -33,6 +27,12 @@ Je suis un développeur passionné avec une expertise dans la création d'applic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40px" height="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" title="React Native" width="40px" height="40px" />
 </p>
+
+### **Portfolio:** 
+[swandaphne.fr](http://swandaphne.fr)
+
+### **Projets Annexes:** 
+[Excentiel.fr](http://excentiel.fr)
 
 ### **Mon Projet Principal :**
 Je travaille actuellement sur la création d'un ERP (Enterprise Resource Planning) utilisant Symfony et React, un projet majeur qui vise à moderniser et simplifier la gestion des processus d'entreprise. Cela me permet de mettre en pratique mes compétences techniques tout en relevant de nouveaux défis à chaque étape.
