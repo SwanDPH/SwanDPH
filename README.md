@@ -4,7 +4,7 @@
 Je suis un développeur passionné avec une expertise dans la création d'applications robustes et modernes, en utilisant Symfony et React. Mon objectif est de créer des solutions adaptées aux besoins des entreprises, notamment dans la création d'ERP, tout en assurant la meilleure expérience utilisateur possible.
 
 ### **Mon Linkedin:**
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/a/a7/LinkedIn_logo_initials.svg)](https://www.linkedin.com/in/swan-daphne-dev-webweb)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg)](https://www.linkedin.com/in/swan-daphne-dev-webweb)
 
 ### **Languages and Tools:**
 
