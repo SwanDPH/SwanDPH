@@ -81,7 +81,7 @@ Je suis un développeur passionné avec une expertise approfondie dans la créat
 ## 🚀 **Projets & Réalisations**
 
 ### 💼 **Projet Principal - ERP Next-Gen**
-> Développement d'un système ERP moderne avec **Symfony** et **React**
+> Développement d'un système ERP moderne avec **Symfony**, **apiPlatform** et **React**
 
 **Objectifs :**
 - 📊 Modernisation des processus d'entreprise
@@ -90,8 +90,8 @@ Je suis un développeur passionné avec une expertise approfondie dans la créat
 - 🔒 Sécurité renforcée
 
 ### 🌐 **Autres Projets**
-- **[Excentiel.fr](http://excentiel.fr)** - Projet collaboratif innovant
-- **Portfolio Personnel** - Vitrine de mes compétences techniques
+- **[Excentiel.fr](http://excentiel.fr)** - Side Projet (Réalisé seul et en totale autonomie) **Symfony**, **apiPlatform** et **Nextjs**
+- **Portfolio Personnel** - Vitrine de mes compétences techniques **Symfony**, **apiPlatform** et **NextJs**
 
 ---
 
