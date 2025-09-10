@@ -98,7 +98,7 @@ Je suis un développeur passionné avec une expertise approfondie dans la créat
 ## 📈 **Stats GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swan-daphne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwanDPH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
